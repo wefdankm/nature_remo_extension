@@ -1,6 +1,8 @@
 # About
 nature_remo_extension is a tiny script to extend IR signal received on one Nature Remo device to another.
 
+the script uses Local API of Nature Remo specified in https://local-swagger.nature.global/
+
 ## Usage
 
 Extend IR signal from Nature Remo Mini 1st Gen at 192.168.11.1 to Nature Remo Mini 1st Gen at 192.168.11.2
